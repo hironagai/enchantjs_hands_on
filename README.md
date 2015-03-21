@@ -1,1 +1,2 @@
 # enchantjs_hands_on
+enchantjsを使用したゲーム作成ハンズオンイベントの資料
